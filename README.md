@@ -179,23 +179,37 @@ The most important HR insight is the contrast between **C0: Diagnosed & Supporte
 **Pipeline Overview**
 ![pipelineoverview](Screenshots/pipelineoverview.png)
 
+
+
 **Age Distribution Before and After Cleaning**
 ![agedistribution](Screenshots/agedistribution.png)
+
+
 
 **UMAP 2-D Embedding Before Clustering**
 ![umapembedding](Screenshots/umapembedding.png)
 
+
+
 **Silhouette vs Calinski-Harabasz Across k**
 ![metriccomparison](Screenshots/metriccomparison.png)
+
+
 
 **K-Means k=2 Clustering Result**
 ![kmeansk2](Screenshots/kmeansk2.png)
 
+
+
 **K-Means k=4 Clustering Result**
 ![kmeansk4](Screenshots/kmeansk4.png)
 
+
+
 **Treatment-Seeking Rate by k=4 Cluster**
 ![treatmentrate](Screenshots/treatmentrate.png)
+
+
 
 ---
 
