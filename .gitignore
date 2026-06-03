@@ -1,0 +1,42 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Large or private data files
+*.xlsx
+*.xls
+
+# Model/output files
+*.pkl
+*.joblib
+*.h5
+*.onnx
+
+# Python build files
+build/
+dist/
+*.egg-info/
