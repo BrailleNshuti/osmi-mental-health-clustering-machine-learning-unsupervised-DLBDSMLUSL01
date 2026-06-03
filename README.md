@@ -177,25 +177,25 @@ The most important HR insight is the contrast between **C0: Diagnosed & Supporte
 # Screenshots of Notebook Outcomes
 
 **Pipeline Overview**
-![pipelineoverview](screenshots/pipelineoverview.png)
+![pipelineoverview](Screenshots/pipelineoverview.png)
 
 **Age Distribution Before and After Cleaning**
-![agedistribution](screenshots/agedistribution.png)
+![agedistribution](Screenshots/agedistribution.png)
 
 **UMAP 2-D Embedding Before Clustering**
-![umapembedding](screenshots/umapembedding.png)
+![umapembedding](Screenshots/umapembedding.png)
 
 **Silhouette vs Calinski-Harabasz Across k**
-![metriccomparison](screenshots/metriccomparison.png)
+![metriccomparison](Screenshots/metriccomparison.png)
 
 **K-Means k=2 Clustering Result**
-![kmeansk2](screenshots/kmeansk2.png)
+![kmeansk2](Screenshots/kmeansk2.png)
 
 **K-Means k=4 Clustering Result**
-![kmeansk4](screenshots/kmeansk4.png)
+![kmeansk4](Screenshots/kmeansk4.png)
 
 **Treatment-Seeking Rate by k=4 Cluster**
-![treatmentrate](screenshots/treatmentrate.png)
+![treatmentrate](Screenshots/treatmentrate.png)
 
 ---
 
@@ -302,7 +302,7 @@ The project could be extended by:
 ```
 employee-mental-health-segmentation/
 │
-├── screenshots/
+├── Screenshots/
 │   ├── pipeline_overview.png
 │   ├── age_distribution_cleaning.png
 │   ├── umap_embedding.png
