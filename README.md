@@ -204,7 +204,7 @@ The most important HR insight is the contrast between **C0: Diagnosed & Supporte
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/BrailleNshuti/employee-mental-health-segmentation
+git clone https://github.com/BrailleNshuti/osmi-mental-health-clustering-machine-learning-unsupervised-DLBDSMLUSL01
 ```
 
 ## 2. Open the notebook
@@ -347,4 +347,4 @@ IU International University of Applied Sciences
 
 # Repository Link
 
-https://github.com/BrailleNshuti/employee-mental-health-segmentation
+https://github.com/BrailleNshuti/osmi-mental-health-clustering-machine-learning-unsupervised-DLBDSMLUSL01
